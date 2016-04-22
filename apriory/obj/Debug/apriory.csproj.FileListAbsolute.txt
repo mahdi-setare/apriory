@@ -1,0 +1,6 @@
+c:\users\mahdi\documents\visual studio 2013\Projects\apriory\apriory\bin\Debug\apriory.exe.config
+C:\Users\Mahdi\documents\visual studio 2013\Projects\apriory\apriory\bin\Debug\apriory.exe
+C:\Users\Mahdi\documents\visual studio 2013\Projects\apriory\apriory\bin\Debug\apriory.pdb
+C:\Users\Mahdi\documents\visual studio 2013\Projects\apriory\apriory\obj\Debug\apriory.csprojResolveAssemblyReference.cache
+C:\Users\Mahdi\documents\visual studio 2013\Projects\apriory\apriory\obj\Debug\apriory.exe
+C:\Users\Mahdi\documents\visual studio 2013\Projects\apriory\apriory\obj\Debug\apriory.pdb
